@@ -1,2 +1,6 @@
 This is an important test 2 - test NOW NOW NOW - AFTER FIX 
+<<<<<<< HEAD
 testing is conflict will be detected and now back ACTUALLY (will it be overriden)
+=======
+testing is conflict will be detected and now back
+>>>>>>> 52db59e38e6d5cdb5eb4180c55bb067c82a1fe63
