@@ -1,1 +1,2 @@
 This is an important test 2 - test NOW NOW NOW - AFTER FIX 
+testing is conflict will be detected
