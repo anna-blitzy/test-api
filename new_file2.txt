@@ -1,0 +1,4 @@
+This is an important test 2 - test NOW NOW NOW - AFTER FIX 
+<<<<<<< HEAD
+testing is conflict will be detected and now back ACTUALLY (will it be overriden)
+=======
