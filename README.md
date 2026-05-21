@@ -17,3 +17,5 @@ npm start
 ```
 
 API runs on port 4000 by default.
+
+# Bitbucket-side conflicting edit by Gate8 test on Thu May 21 19:00:03 IST 2026
