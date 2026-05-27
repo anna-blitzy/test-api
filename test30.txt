@@ -1,2 +1,2 @@
 testing 123
-creating new conflict. This is bb side
+creating merge conflict. this is github side
